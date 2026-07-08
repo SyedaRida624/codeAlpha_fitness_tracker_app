@@ -8,13 +8,14 @@
 ## 📸 App Showcase
 
 # Splash Screen
-<img width="360" alt="AuraFit Splash Screen" src="WhatsApp Image 2026-07-08 at 5.28.38 PM.jpeg" />
+<img width="698" height="1600" alt="WhatsApp Image 2026-07-08 at 5 29 38 PM" src="https://github.com/user-attachments/assets/22798df4-c29a-4425-82f9-49574ba09ace" />
 
 # Dashboard & Analytics
-<img width="360" alt="AuraFit Dashboard" src="WhatsApp Image 2026-07-08 at 5.29.39 PM.jpeg" />
+<img width="698" height="1600" alt="WhatsApp Image 2026-07-08 at 5 29 39 PM" src="https://github.com/user-attachments/assets/1ad46b39-21ec-43f8-9084-695cec3f3df5" />
 
 # Log Workout Dialog
-<img width="360" alt="Log Workout Dialog" src="WhatsApp Image 2026-07-08 at 5.29.39 PM (1).jpeg" />
+<img width="698" height="1600" alt="WhatsApp Image 2026-07-08 at 5 29 39 PM (1)" src="https://github.com/user-attachments/assets/cb70aaa9-c9cd-4b5f-99dc-53852f97f6b3" />
+
 
 ---
 
